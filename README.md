@@ -1,8 +1,9 @@
-![Logo do aplicativo](/assets/logo.png)
+![Logo do aplicativo](/assets/logo.jpeg)
 
 # AgilMed
 
 **ALUNOS:**
+
 Bruno Santos Ramos
 
 Otavio Burato
@@ -31,32 +32,32 @@ Facilitar o acompanhamento das filas de atendimento em clínicas médicas e unid
 
 ## 4-Objetivos e Metas
 
-1 AgilMed
-1.1 Gerenciamento
-1.1.1 Anáise Custo/Beneficio
-1.1.2 Análise de Contração de Profissionais
-1.2 Definição
-1.2.1 Levantamento de Requisitos
-1.2.2 Especificação de Requisitos
-1.2.2.1 Lista de Requisitos Funcionais/Não funcionais
-1.2.2.2 Diagramação de Use Case
-1.2.2.3 Descrição de Cenários Ótimos/Alternativo
-1.2.3 Validação de Requisitos
-1.3 Desenvolvimento
-1.3.1 Configuração do Ambiente de Desenvolvimento
-1.3.2 Designer de Interface
-1.3.3 Codificação
-1.3.4 Teste
-1.3.5 Designer do Sistema
-1.3.5.1 Diagrama de Classe
-1.3.5.2 Diagrama ER
-1.4 Operação
-1.4.1 Configuração do Ambiente de Produção
-1.4.2 Distribuição
-1.4.3 Treinamento
-1.5 Finalização
-1.5.1 Homologação
-1.5.1.1 Reunião de Fechamento
+1 AgilMed<br>
+1.1 Gerenciamento<br>
+1.1.1 Anáise Custo/Beneficio<br>
+1.1.2 Análise de Contração de Profissionais<br>
+1.2 Definição<br>
+1.2.1 Levantamento de Requisitos<br>
+1.2.2 Especificação de Requisitos<br>
+1.2.2.1 Lista de Requisitos Funcionais/Não funcionais<br>
+1.2.2.2 Diagramação de Use Case<br>
+1.2.2.3 Descrição de Cenários Ótimos/Alternativo<br>
+1.2.3 Validação de Requisitos<br>
+1.3 Desenvolvimento<br>
+1.3.1 Configuração do Ambiente de Desenvolvimento<br>
+1.3.2 Designer de Interface<br>
+1.3.3 Codificação<br>
+1.3.4 Teste<br>
+1.3.5 Designer do Sistema<br>
+1.3.5.1 Diagrama de Classe<br>
+1.3.5.2 Diagrama ER<br>
+1.4 Operação<br>
+1.4.1 Configuração do Ambiente de Produção<br>
+1.4.2 Distribuição<br>
+1.4.3 Treinamento<br>
+1.5 Finalização<br>
+1.5.1 Homologação<br>
+1.5.1.1 Reunião de Fechamento<br>
 
 
 | Elemento WBS | Descrição |
@@ -99,11 +100,95 @@ Facilitar o acompanhamento das filas de atendimento em clínicas médicas e unid
 
 ## 4.1  CUSTOS DO PROJETO
 
-| Descrição                 | Valores |
-| ------------------------- | ------- |
-| Mão de obra               | R$9580  |
-| Depreciação: Equipamentos |         |
-| Transporte                |         |
-| Outros                    |         |
+| Descrição                 | Valores                                         |
+| ------------------------- | ----------------------------------------------- |
+| Mão de obra               | R$10.020                                        |
+| Luz                       | R$120 (2 meses)                                 |
+| Internet                  | R$100 (2 meses)                                 |
+| Imposto                   | R$2505 (25% da mão de obra)                     |
+| Depreciação: Equipamentos | Depreciação = 828R$ a.a<br>(4.600 - 460) ÷ 5 anos<br>828 ÷ 12 = 69R$ mensal<br>69R$ x 2(PC)=R$138 |
+| Transporte(Ida/Volta)     | 4.40x2x5(dias de reunião) x 2 pessoas = 88 R$   |
+| Alimentação               | R$16/Diax33 dias trabalhados x 2 pessoas=R$1056 |
+| Total                     | R$14.027                                        |
+
+*Luz: R$240/2 (Excedente de pessoas) = R$240*
+
+*Internet: R$200/2(Excedente de pessoas) = R$200*
+
+## 5-Escopo
+
+**In Scope:**
+
+* Análise Custo/Beneficio
+* Análise de Contração de Profissionais
+* Levantamento de Requisitos
+* Especificação de Requisitos
+* Lista de Requisitos Funcionais/Não funcionais
+* Diagramação de Use Case
+* Descrição de Cenários Ótimos/Alternativo
+* Validação de Requisitos
+* Configuração do Ambiente de Desenvolvimento
+* Designer de Interface
+* Codificação
+* Teste
+* Diagrama de Classe
+* Diagrama ER
+* Configuração do Ambiente de Produção
+* Distribuição
+* Treinamento
+* Homologação
+* Reunião de Fechamento
+
+**Out of Scope:**
+* Não Atende
+
+
+## 06-Organização do Projeto
+
+**Papeis e Responsabilidades**
+
+Papeis e responsabilidades designadas p/ cada 
+Roles and responsibilities assigned to each individual or group resource to the project.
+
+**Sponsor do Projeto:** 
+Bruno Santos Ramos(<brunosantos@hotmail.com>)<br>
+Otavio Burato de Oliveira(<otavioburato42@gmail.com>)
+
+**ÁREAS DE RESPONSABILIDADE**
+
+	Gerentes do Projeto: Bruno Santos, Otavio Burato de Oliveira
+	Analista de Sistemas: Otavio Burato de Oliveira	
+	Programador: Otavio Burato de Oliveira
+	Designer: Bruno Santos Ramos
+	Tester: Bruno Santos Ramos
+	Analista Infraestrutura: Otavio Burato de Oliveira
+
+## 7-Riscos dos Projetos
+
+**Riscos:**
+
+* Defeitos do computador.	
+* Afastamento de membros da equipe por doença.
+* Desistência de membros da equipe.
+* Mudanças de requisitos.
+* Perda de backups
+
+**Matriz de Risco**
+
+| Probabilidade<br>Impacto | Baixo(20%) | Médio(>20%<60%) | Alto(>60%) |
+| ------------------------ | :--------: | :-------------: | :--------: |
+| Baixo(20%)               |            |      1,5        |            |
+| Médio(>20%<60%)          |     3      |        4        |            |
+| Alto(>60%)               |            |        2        |            |
+
+**Estratégias mitigadoras**
+
+| Risco | Grau        | Estratégia                                                   |
+| ----- | ----------- | ------------------------------------------------------------ |
+| 1     | Baixo-Médio | Disponibilizar computadores<br>de reserva para a equipe      |
+| 2     | Médio-Alto  | Estarão disponíveis outros<br>colaboradores caso necessário. |
+| 4     | Médio-Médio | Aplicar horas extras nas folgas.                             |
+| 5     | Baixo-Médio | Desenvolver backup na Nuvem.                                 |
+
 
 
