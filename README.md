@@ -151,7 +151,7 @@ Papeis e responsabilidades designadas p/ cada
 Roles and responsibilities assigned to each individual or group resource to the project.
 
 **Sponsor do Projeto:** 
-Bruno Santos Ramos(<brunosantos@hotmail.com>)<br>
+Bruno Santos Ramos(<brunosantosramos2013@gmail.com>)<br>
 Otavio Burato de Oliveira(<otavioburato42@gmail.com>)
 
 **ÁREAS DE RESPONSABILIDADE**
