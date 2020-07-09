@@ -1,4 +1,6 @@
-![Logo do aplicativo](/assets/logo.jpeg)
+<p align="center">
+  <img src="https://github.com/Bruno-cpu-alt/Agilmed/blob/master/assets/logo.jpeg?raw=true" alt="Logo do aplicativo"/>
+</p>
 
 # AgilMed
 
